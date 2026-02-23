@@ -9,6 +9,4 @@
 
 **© 2026 JEFT**
 
-⭐ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın!
-
 </div>
